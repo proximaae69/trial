@@ -1,0 +1,9 @@
+
+{
+  "name": "Lumina AI - Multi-Modal Playground",
+  "description": "A high-performance, futuristic AI workspace showcasing Gemini's multi-modal capabilities including real-time voice, image generation, and search-grounded chat.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
